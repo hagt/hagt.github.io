@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Henning Agt-Rickauer's Homepage
 
-You can use the [editor on GitHub](https://github.com/hagt/hagt.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello, my name is Henning and I am a postdoctoral researcher working on knowledge graphs, information modeling, semantic web applications, and data integration. I'm an experienced software engineer and full stack developer. For the last six years I have been working on semantic video annotation and metadata integration in the [Semantic Technologies Group](https://hpi.de/meinel/knowledge-tech/former-topics/semantics.html) of the [Hasso Plattner Institute for Digital Engineering (HPI)](https://hpi.de/en) in Potsdam.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Before that, I spent five years at the [Database Systems and Information Management Group (DIMA)](https://www.dima.tu-berlin.de/), [Technische Universität Berlin](https://www.tu.berlin/en/), working on model-based software development with domain-specific languages and model-based data and software integration.
 
-### Markdown
+I obtained my PhD in computer science from the TU Berlin, where I worked on the connection between knowledge-based systems and software modeling. In particular, I used information extraction from text and knowledge graphs to build a recommender system for domain-specific modeling.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/hagt/hagt.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

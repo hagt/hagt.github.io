@@ -26,6 +26,8 @@ On this page you find an overview of my scientific publications grouped by topic
 
 **Automated Construction of a Large Semantic Network of Related Terms for Domain-Specific Modeling**. Henning Agt, Ralf-Detlef Kutsche. Advanced Information Systems Engineering - Proceedings of the 25th International Conference, CAiSE 2013, Valencia, Spain, June 17-21, 2013. [[pdf]](caise2013.pdf) [[link]](https://link.springer.com/chapter/10.1007/978-3-642-38709-8_39)
 
+**SemAcom: A System for Modeling with Semantic Autocompletion**. Henning Agt. In: Model Driven Engineering Languages and Systems - Demo Track, 15th International Conference, MODELS 2012, Innsbruck, Austria, Sept. 30 - Oct. 05, 2012. [[pdf]](models2012.pdf)
+
 **Supporting Software Language Engineering by Automated Domain Knowledge Acquisition**. Henning Agt. In: MODELS 2011 Workshops - Models in Software Engineering Workshops and Symposia at the 14th International Conference on Model Driven Engineering Languages and Systems, MoDELS 2011, Wellington, New Zealand, October 16-21, 2011. Proceedings. LNCS 7167 Springer 2012 [[pdf]](models2011.pdf) [[link]](https://www.springerprofessional.de/en/supporting-software-language-engineering-by-automated-domain-kno/3874954)
 
 **Guidance for Domain Specific Modeling in Small and Medium Enterprises**. Henning Agt, Ralf-Detlef Kutsche, Timo Wegeler. In: SPLASH '11 Workshops. Proceedings of the compilation of the co-located workshops on DSM'11 at the 26th Annual ACM SIGPLAN Conference on Object-Oriented Programming, Systems, Languages, and Applications, OOPSLA 2011, Portland, OR, USA, Oct 22 - 27, 2011. [[pdf]](splash2011.pdf) [[link]](https://dl.acm.org/doi/10.1145/2095050.2095062)

@@ -4,7 +4,7 @@
 ### Professional Experience
 ---
 
-| 2015-2021 | [HPI Potsdam]((https://hpi.de/meinel/knowledge-tech/former-topics/semantics.html)) | Research associate / PostDoc | Working on semantic video annotation, vocabulary and ontology development, linked data applications, metadata integration |
+| 2015-2021 | [HPI Potsdam](https://hpi.de/meinel/knowledge-tech/former-topics/semantics.html) | Research associate / PostDoc | Working on semantic video annotation, vocabulary and ontology development, linked data applications, metadata integration |
 | 2008-2013 | [TU Berlin, DIMA](https://www.dima.tu-berlin.de/) | Research associate | Working on model-based data and software integration, natural language processing, model-based software development, domain-specific languages |
 | 2003-2008 | [Fraunhofer ISST Berlin](https://www.isst.fraunhofer.de/) | Research associate | Working on modeling languages, methods and tools for embedded systems in the automotive industry |
 

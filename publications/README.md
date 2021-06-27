@@ -46,11 +46,11 @@ On this page you find an overview of my scientific publications grouped by topic
 
 **Modeling and Analyzing Non-Functional Properties to Support Software Integration**. Henning Agt, G. Bauhoff, R. Kutsche, N. Milanovic. In: Advanced Information Systems Engineering Workshops - CAiSE 2011 International Workshops, London, UK, June 20-24, 2011. Proceedings. LNBIP 83 Springer 2011 [[pdf]](caise2011.pdf) [[link]](https://link.springer.com/chapter/10.1007/978-3-642-22056-2_15)
 
-**Semantic Annotation and Conflict Analysis for Information System Integration**. Henning Agt, G. Bauhoff, R. Kutsche , N. Milanovic, J. Widiker. In: Proceedings of the 3rd MDTPI Workshop at the 6th European Conference on Modelling Foundations and Applications (ECMFA), Paris, France, 2010
+**Semantic Annotation and Conflict Analysis for Information System Integration**. Henning Agt, G. Bauhoff, R. Kutsche , N. Milanovic, J. Widiker. In: Proceedings of the 3rd MDTPI Workshop at the 6th European Conference on Modelling Foundations and Applications (ECMFA), Paris, France, 2010 [[pdf]](ecmfa2010.pdf)
 
-**Metamodels and Transformations for Software- and Data-Integration**. Henning Agt, G. Bauhoff, D. Kumpe, R. Kutsche , N. Milanovic, M. Shtelma, J. Widiker. Forschungsbericht (Technical Report) 2010/2, TU Berlin, 2010
+**Metamodels and Transformations for Software- and Data-Integration**. Henning Agt, G. Bauhoff, D. Kumpe, R. Kutsche , N. Milanovic, M. Shtelma, J. Widiker. Forschungsbericht (Technical Report) 2010/2, TU Berlin, 2010 [[pdf]](tu_report2010.pdf) [[link]](https://depositonce.tu-berlin.de/handle/11303/11351)
 
-**Metamodeling Foundation for Software and Data Integration**. Henning Agt, G. Bauhoff, M. Cartsburg, D. Kumpe, R. Kutsche, N. Milanovic. Information Systems: Modeling, Development, and Integration, Third International United Information Systems Conference, UNISCON 2009, Sydney, Australia, April 21-24, 2009. Proceedings. LNBIP 20 Springer 2009
+**Metamodeling Foundation for Software and Data Integration**. Henning Agt, G. Bauhoff, M. Cartsburg, D. Kumpe, R. Kutsche, N. Milanovic. Information Systems: Modeling, Development, and Integration, Third International United Information Systems Conference, UNISCON 2009, Sydney, Australia, April 21-24, 2009. Proceedings. LNBIP 20 Springer 2009 [[pdf]](uniscon2009.pdf) [[link]](https://link.springer.com/chapter/10.1007/978-3-642-01112-2_34)
 
-**Model-based Semantic Conflict Analysis for Software- and Data-Integration Scenarios**: Forschungsbericht (Technical Report) 2009/7, TU Berlin, 2009
+**Model-based Semantic Conflict Analysis for Software- and Data-Integration Scenarios**: Forschungsbericht (Technical Report) 2009/7, TU Berlin, 2009 [[pdf]](tu_report2009.pdf) [[link]](https://depositonce.tu-berlin.de/handle/11303/11370)
 

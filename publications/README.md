@@ -32,7 +32,7 @@ On this page you find an overview of my scientific publications grouped by topic
 
 **SemAcom: A System for Modeling with Semantic Autocompletion**. Henning Agt. In: Model Driven Engineering Languages and Systems - Demo Track, 15th International Conference, MODELS 2012, Innsbruck, Austria, Sept. 30 - Oct. 05, 2012. [[pdf]](models2012.pdf)
 
-**The BIZWARE Research Project**.´Henning Agt, Ralf-Detlef Kutsche, N. Natho, Y. Li. In: Model Driven Engineering Languages and Systems - Exhibition Track, 15th International Conference, MODELS 2012, Innsbruck, Austria, Sept. 30 - Oct. 05, 2012. [pdf]](bizware2012.pdf)
+**The BIZWARE Research Project**.´Henning Agt, Ralf-Detlef Kutsche, N. Natho, Y. Li. In: Model Driven Engineering Languages and Systems - Exhibition Track, 15th International Conference, MODELS 2012, Innsbruck, Austria, Sept. 30 - Oct. 05, 2012. [[pdf]](bizware2012.pdf)
 
 **Supporting Software Language Engineering by Automated Domain Knowledge Acquisition**. Henning Agt. In: MODELS 2011 Workshops - Models in Software Engineering Workshops and Symposia at the 14th International Conference on Model Driven Engineering Languages and Systems, MoDELS 2011, Wellington, New Zealand, October 16-21, 2011. Proceedings. LNCS 7167 Springer 2012 [[pdf]](models2011.pdf) [[link]](https://www.springerprofessional.de/en/supporting-software-language-engineering-by-automated-domain-kno/3874954)
 

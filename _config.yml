@@ -4,6 +4,8 @@ description: "Personal page of Henning Agt-Rickauer"
 navigation:
   - title: "Home"
     url: /    
+  - title: "Short CV"
+    url: /cv/
   - title: "Projects"
     url: /projects/
   - title: "Publications"

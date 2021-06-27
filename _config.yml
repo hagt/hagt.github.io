@@ -1,9 +1,7 @@
 theme: jekyll-theme-minimal
 title: "Henning<br>Agt-Rickauer"
-description: "Personal page of Henning Agt-Rickauer"
+description: "Personal page"
 navigation:
-  - title: "Home"
-    url: /    
   - title: "Short CV"
     url: /cv/
   - title: "Projects"

@@ -1,5 +1,7 @@
 ## Short CV
 
+I'm an expert in knowledge graphs, semantic web application development, data modeling and data integration. In addition, I have extensive experience in software development (Java, full stack) and in model-driven engineering.
+
 ---
 ### Professional Experience
 ---

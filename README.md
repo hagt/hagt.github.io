@@ -2,7 +2,7 @@
 
 Hello, my name is Henning and I am a software engineer at [DIN Software GmbH](https://www.dinsoftware.de) and work on natural language processing and AI applications in the field of standardization.
 
-Before that I was a postdoc in the [Semantic Technologies Group](https://hpi.de/meinel/knowledge-tech/former-topics/semantics.html) of the [Hasso Plattner Institute for Digital Engineering (HPI) ](https ://hpi.de/en) in Potsdam working on knowledge graphs, information modelling, semantic web applications and semantic video annotation.
+Before that I was a postdoc in the [Semantic Technologies Group](https://hpi.de/meinel/knowledge-tech/former-topics/semantics.html) of the [Hasso Plattner Institute for Digital Engineering (HPI)](https://hpi.de/en) in Potsdam working on knowledge graphs, information modelling, semantic web applications and semantic video annotation.
 
 I spent five years at the [Database Systems and Information Management Group (DIMA)](https://www.dima.tu-berlin.de/), [Technische Universität Berlin](https://www.tu.berlin/en/), working on model-based software development with domain-specific languages and model-based data and software integration.
 
